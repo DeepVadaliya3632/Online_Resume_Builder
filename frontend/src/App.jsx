@@ -21,7 +21,6 @@ const App = () => {
           fontSize: "13px"
         }
       }}>
-        
       </Toaster>
     </UserProvider>
   )
