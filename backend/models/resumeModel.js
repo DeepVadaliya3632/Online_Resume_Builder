@@ -21,7 +21,7 @@ const resumeSchema = new mongoose.Schema({
     profileInfo: {
         profilePreviewUrl: String,
         fullName: String,
-        desgnation: String,
+        designation: String,
         summary: String
     },
     contactInfo: {
